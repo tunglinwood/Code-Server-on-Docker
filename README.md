@@ -9,6 +9,7 @@ This is inspired by [VSCode on iPad Pro - Full Setup Guide with Raspberry Pi](ht
 ### 1. Install Docker
 ### 2. Pull Linuxserver.io/code-server 
 ### 3. Compose yaml of the environment and volume specification to Docker container of code-server
+  Use TLS and reverse proxy https://coder.com/blog/deploying-coder-with-docker-and-https
 ### 4. SSL certication with ngix
 ### 5. Start Code-server
 
